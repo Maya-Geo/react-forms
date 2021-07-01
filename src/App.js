@@ -1,4 +1,4 @@
-import ClassForms from './ClassForms'
+import ClassForms from './Components/ClassForms'
 import './App.css';
 
 function App() {
